@@ -1,4 +1,4 @@
-package chap01;
+package chap02;
 
 public class PasswordStrengthMeter {
 	public PasswordStrength meter(String s) {

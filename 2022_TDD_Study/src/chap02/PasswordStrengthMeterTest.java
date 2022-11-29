@@ -1,4 +1,4 @@
-package chap01;
+package chap02;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.jupiter.api.Test;
